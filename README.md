@@ -19,7 +19,6 @@ The goal is to turn raw data into actionable stories and strategic insights usin
 
 ##  Data & Insights
 
-*(If available, describe your dataset here—e.g., sourced from Kaggle or industry reports.)*
 
 Typical fields include:
 
@@ -28,9 +27,6 @@ Typical fields include:
 - **Fuel Type, Vehicle Type, Engine Size**
 - **Manufacturing Year**, **Condition** (New/Used), **Seller Type**
 
-You analyze pricing trends, demand patterns, regional differences, and vehicle depreciation curves.
-
----
 
 ##  Analysis & Visualizations
 
